@@ -17,6 +17,7 @@
 ![Tampilan Repository yang sudah dibuat](images/image6.png)
 
 **B. Langkah-Langkah Membuat README, MARKDOWN,dan Fitur Menambahkan Gambar ke Repository**
+
 **B.1. Menambahkan Repository ke File untuk Dimasukkan ke VS Code**
 1. Buka "Anaconda Prompt", maka akan muncul tampilan seperti dibawah ini
 ![Tampilan Anaconda Prompt](images/image7.png)
@@ -60,7 +61,7 @@
 
 6. kemudian klik git add .
 
-7.lalu, git commit -m "link code repository"
+7. lalu, git commit -m "link code repository"
 
 8. kemudian ketik git push origin main
 
