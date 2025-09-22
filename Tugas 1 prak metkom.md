@@ -46,3 +46,22 @@
 4. kemudian save
 ![Tampilan VS Code](images/image18.png)
 
+**B.3. Membuat MARKDOWN dan Fitur Menambahkan Gambar Ke Repository**
+1. Klik New File dan beri nama pada file markdown. contoh: tugas 1 prak metkom.md
+![Tampilan VS Code](images/imgae15.png)
+
+2. Kemudian, klik "New Folder" dan berikan nama untuk folder tersebut dan upload foto yang ingin dimasukkan. 
+
+3. Untuk menambahkan gambar, kembali ke VS Code lalu ketik apapun yang ingin ditambahkan dan untuk menambahkan gambar ketik ![keterangan gambar](images/nama file gambar yang ingin ditambahkan)
+
+4. setelah itu, save.  
+
+5. kemudian, buka anaconda prompt, masuk ke folder project dengan mengetik cd (folder project). 
+
+6. kemudian klik git add .
+
+7.lalu, git commit -m "link code repository"
+
+8. kemudian ketik git push origin main
+
+9. kemudian, buka kembali repository github dan cek apakah sudah terupload atau belum
